@@ -5,12 +5,3 @@
     <img src="https://james-1258744956.cos.ap-shanghai.myqcloud.com/thingsboard-mqtt-part2/dog_bone.gif" alt="分隔线君">
 </p>
 
-
-
-
-
-:seedling: ​微信公众号: **物联网技术指导**
-
-:wind_chime: 网站: [iot..cn](https://iot..cn/#/)
-
-:sparkling_heart: ​个人微信号: ****
